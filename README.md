@@ -1,17 +1,17 @@
 ### Hi there 👋
 
-* Achievement driven professionalwith an experience of 5+ years
-* 2 years experience in Data Science algorithm, Machine learning
-* 2 years of experience in architecting/automating c​ loud infrastructure​ ​ using​ Python ​ and​ CICD - Gitlab
-* Managed ​ Git workflows​ for version control(Source code management)
-* Hands on experience in architecting ​ Artificial Intelligence, Data Science ​ applications​ ​ with​ Machine Learning, Deep Learning ​ with Python.
-* Deep Learning ​ Techniques include​ ANN,CNN, NLP includes NLTK ​ and​ Spacy
-* Deployment ​ of Models using ​ AWS ​ ( ​ ElasticBeanstalk) and​ Google Cloud Platform.
-* Hands on experience in building chatbot using ​ AWS Lex ​ and​ Google DialogFlow.
-* Skilled in libraries such as​ Tensorflow , Sklearn, Numpy, Pandas, Matplotlib.
-* Creating a rest api using​ Flask ​ and python for ML based applications​ .
-* Automatic backup ​ using AWS ​ Lamda​ with python Boto3
-* Developed and managed automated CI/CD pipelines for Cloud Infrastructure deployments
+* Working professional with an experience of 5+ years
+* 2 years experience in architecting Artificial Intelligence, Data Science applications with Machine Learning, Deep Learning with Python.
+* Created restful API using Flask and python for exposing ML based Ticket classification application.
+* Created Image Classification application using Python, Flask and Deep Learning CNN architecture.
+* Built data ingestion and validation pipelines for files uploaded by end user.
+* Created preprocessing workflow for data from mongodb to feed into ML algorithm
+* Built Custom models for clustering data using DBSCAN, KMeans and classifying using Random Forest, XGboost
+* Deployment of restful API/ application using AWS (ElasticBeanstalk).
+* Developed and managed automated GitLab CI/CD pipelines for deployments
+* Hands on experience in building chatbot using AWS Lex and Google DialogFlow.
+* Skilled in libraries such as Tensorflow , Sklearn, Numpy, Pandas, Matplotlib, Boto3
+
 
 <!--
 **sauravchakraborty13069/sauravchakraborty13069** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
