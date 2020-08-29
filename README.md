@@ -12,7 +12,16 @@
 * Hands on experience in building chatbot using AWS Lex and Google DialogFlow.
 * Skilled in libraries such as Tensorflow , Sklearn, Numpy, Pandas, Matplotlib, Boto3
 
+Skills
 
+* Programming Language: Python 3.X
+* Python Libraries:​ Flask, Sklearn, Numpy, Pandas, Matplotlib, Seaborn, Boto3, BS4
+* Algorithms​ : Random Forest, XGBoost, Bagging and Boosting, Decision Tree, KNN, SVM, KMeans, DBSCAN,
+* GridSearch, CrossValidation, ANN, CNN, BOW, TFIDF, Skip-gram, PCA
+* AWS​ : EC2, S3 ,ElasticBeanstalk, Amazon Lex
+* GCP​ : Google DialogFlow (Chatbot)
+* Version Control:​ Git
+* CICD​ : GitLab CICD
 <!--
 **sauravchakraborty13069/sauravchakraborty13069** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
